@@ -31,3 +31,10 @@ _This will also be italic_
 __This will also be bold__
 
 _You **can** combine them_
+
+
+class Utils{
+    public static int getSum(int num1,int num2) {
+		return num1+num2;
+    }
+}
